@@ -47,6 +47,14 @@ HTML
 ├── @vitejs/plugin-react@4.0.3
 ├── eslint-plugin-react-hooks@4.6.0
 ├── eslint-plugin-react-refresh@0.4.3
+
+## I OWN NOTHING KONAMI RELATED 
+DONT SUE ME!!!!!
+Card art, erratas, Card names or any kind of 2Dimentional content
+that is called from the endpoint database that isn't even hosted
+by me is not affiliated with me nor am I the sole propietor of anything 
+other than this code minus the url endpoint.
+
 ├── eslint@8.45.0
 ├── prop-types@15.8.1
 ├── react-dom@18.2.0
