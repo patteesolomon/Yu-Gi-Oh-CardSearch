@@ -1,9 +1,5 @@
 # YGO-CARD LOADER!
 
-## HEY ! THIS SITE IS LIVE AT - 
-https://sensational-kringle-e71543.netlify.app
-`Dont add too many Queries to the search at once or you might get your IP banned!`
-
 ** This app loads cards from the hit series Yu-Gi-Oh! and you can view them at your leasure!
 
 ## Installation
